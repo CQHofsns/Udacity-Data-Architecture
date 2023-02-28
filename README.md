@@ -1,4 +1,4 @@
-# Udacity-Data-Architecture
+# Udacity Data Architecture Nano Degree
 ## Projects repositories:
 
 ### I. [Project 1: Data Architecture Foundation](https://github.com/CQHofsns/Udacity-Data-Architecture/tree/main/1_Data_Architecture_Foundation)
