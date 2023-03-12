@@ -23,5 +23,5 @@ Business presentation document for Stakeholders ([to article](https://github.com
 #### C. DataLakeSolutionArchitectureDiagram.png ([to file](https://github.com/CQHofsns/Udacity-Data-Architecture/blob/main/3_Big_Data_Systems/DataLakeSolutionArchitectureDiagram.png))
 
 ## II. Project Data Lake Architecture Overview:
-<img src="https://github.com/CQHofsns/Udacity-Data-Architecture/blob/main/3_Big_Data_Systems/DataLakeSolutionArchitectureDiagram.png" width="1000" height="1000">
+<img src="https://github.com/CQHofsns/Udacity-Data-Architecture/blob/main/3_Big_Data_Systems/DataLakeSolutionArchitectureDiagram.png" width="1000" height="800">
 	
